@@ -36,13 +36,16 @@
                                             <a href="/firstmedia" class="block px-4 py-2 hover:bg-gray-100 hover:text-[#41B853]">First Media</a>
                                           </li>
                                           <li>
+                                            <a href="/iconnect" class="block px-4 py-2 hover:bg-gray-100 hover:text-[#41B853]">Iconnect</a>
+                                          </li>
+                                          <li>
                                             <a href="/indihome" class="block px-4 py-2 hover:bg-gray-100 hover:text-[#41B853]">Indihome</a>
                                           </li>
                                           <li>
-                                            <a href="/myrepublic" class="block px-4 py-2 hover:bg-gray-100 hover:text-[#41B853]">Myrepublic</a>
+                                            <a href="/mncplay" class="block px-4 py-2 hover:bg-gray-100 hover:text-[#41B853]">MNC Play</a>
                                           </li>
                                           <li>
-                                            <a href="/xlhome" class="block px-4 py-2 hover:bg-gray-100 hover:text-[#41B853]">XlHome</a>
+                                            <a href="/myrepublic" class="block px-4 py-2 hover:bg-gray-100 hover:text-[#41B853]">Myrepublic</a>
                                           </li>
                                         </ul>
                                     </div></li>

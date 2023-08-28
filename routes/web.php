@@ -36,6 +36,10 @@ Route::get('/firstmedia', function () {
     return view('pages.providers.firstmedia');
 })->name('firstmedia');
 
+Route::get('/iconnect', function () {
+    return view('pages.providers.iconnect');
+})->name('iconnect');
+
 Route::get('/indihome', function () {
     return view('pages.providers.indihome');
 })->name('indihome');
@@ -44,6 +48,6 @@ Route::get('/myrepublic', function () {
     return view('pages.providers.myrepublic');
 })->name('myrepublic');
 
-Route::get('/xlhome', function () {
-    return view('pages.providers.xlhome');
-})->name('xlhome');
+Route::get('/mncplay', function () {
+    return view('pages.providers.mncplay');
+})->name('mncplay');

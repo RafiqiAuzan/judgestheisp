@@ -4,11 +4,12 @@ google.charts.load('current', {'packages':['bar']});
             function drawChart() {
               var data = google.visualization.arrayToDataTable([
                 ['Providers', 'Accuracy', 'Precision', 'Recall', 'F1-Score'],
-                ['Biznet', 83, 84, 83, 83],
-                ['First Media', 80, 82, 80, 80],
-                ['Indihome', 83, 83, 83, 83],
-                ['Myrepublic', 83, 84, 83, 83],
-                ['Xlhome', 68, 73, 68, 67]
+                ['Biznet', 84, 85, 84, 84],
+                ['First Media', 83, 85, 83, 83],
+                ['Iconnect', 89, 91, 89, 89],
+                ['Indihome', 85, 85, 85, 85],
+                ['MNC Play', 85, 87, 85, 81],
+                ['Myrepublic', 89, 89, 89, 88]
               ]);
       
               var options = {

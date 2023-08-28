@@ -5,7 +5,6 @@
 
 <head>
     @vite('resources/css/app.css')
-    @vite('resources/css/swiper.css')
     @vite(['resources/css/app.css','resources/js/app.js'])
     <script src="//unpkg.com/alpinejs" defer></script>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
